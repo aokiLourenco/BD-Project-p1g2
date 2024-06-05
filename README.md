@@ -10,7 +10,6 @@
 ---
 
 ### Link do vídeo: [Video YT](https://youtu.be/tlUpXGmFLq0)
-### Link WeTransfer do Projeto xD: [WeTransfer](https://we.tl/t-oOwE4Xt5nu)
 
 ---
 
