@@ -3,7 +3,7 @@
 
 ---
 
-### Para dar login na base de dados pode utilizar o seguinte login
+### Para dar login na base de dados pode utilizar o seguinte login (hosted no servidor do IEETA)
 - Username: **admin**
 - Password: **admin**
 
